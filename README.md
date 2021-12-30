@@ -61,7 +61,7 @@ Para detener al bot en termux
 > Ctrl+z
 
 ⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
++1 303 333 5333
 ```
 ## Partes donde puedes editar tu info :v
 - Edicion de tu numero, nombre del bot... [Esta direccion](https://github.com/NeKosmic/NK-BOT/blob/main/informacion.json)
